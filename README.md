@@ -18,7 +18,7 @@
 ## Penjelasan program
 1. Pertama-tama kita akan melakukan registrasi lalu login dengan nama dan nim yang sama saat registrasi
 2. Kemudian akan menampilkan pilihan Volume bangun ruang yang ingin di hitung
-3. lalu pengguna bisa memilih bangun ruang sesuai dengan angka urutannya (1 untuk Bola, 2 untuk Tabung, 3 untuk Limas Segitiga
+3. lalu pengguna bisa memilih bangun ruang sesuai dengan angka urutannya (1 untuk Bola, 2 untuk Tabung, 3 untuk Limas Segitiga)
 4. lalu setelah memilih bangun ruang pengguna akan disuruh untuk memasukkan angka yang dibutuhkan untuk menghitung bangun ruang
 5. jika pengguna sudah mengisi angka yang dibutuhkan untuk menghitung Volume bangun ruang maka program akan otomatis menghitung dan menampilkan hasil
 
