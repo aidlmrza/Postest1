@@ -1,5 +1,6 @@
-Flowchart
-![Flowchart](https://github.com/aidlmrza/Postest1/assets/144346363/f8696bfb-a801-4637-af59-e068e7c343fb)
+#1 Flowchart
+![Flowchart](https://github.com/aidlmrza/Postest1/assets/144346363/786e9799-a0f0-49ef-afdd-3220ec7ac55a)
+
 
 Contoh salah satu output 
-![Flowchart](https://github.com/aidlmrza/Postest1/assets/144346363/445e8c4c-1722-433c-8b6a-869f045865bc)
+![output](https://github.com/aidlmrza/Postest1/assets/144346363/445e8c4c-1722-433c-8b6a-869f045865bc)
